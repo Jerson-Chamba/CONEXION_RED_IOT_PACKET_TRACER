@@ -6,7 +6,7 @@ MATERIA: FUNDAMENTOS DE CIRCUITOS ELÉCTRICOS
 
 PROFESOR: ING. DARWIN ALULEMA
 
-# INFORME (APP INVENTOR_SITIO WEB)
+# INFORME (CONEXIÓN DE UNA RED IoT CON PACKET TRACER)
 
 **1 . OBJETIVOS**
 
@@ -22,7 +22,7 @@ Objetivos Especificos
 
 **2 . MARCO TEÓRICO**
 
-**¿Qué es App Inventor?**
+**¿Qué es una red IoT?**
 
 App Inventor es un entorno de desarrollo de software creado por Google para la elaboración de aplicaciones destinadas al sistema operativo de Android. El lenguaje es gratuito y se puede acceder fácilmente de la web. 
 
@@ -46,7 +46,7 @@ Como ventajas a la hora de programar con App Inventor, encontramos las siguiente
 
 - Para usuarios de alto nivel resulta ser muy sencilla y no posee los recusos para realizar proyectos mas grandes. 
 
-**Google Maps** 
+**Packet Tracer** 
 
 Es un servidor de aplicaciones de mapas en la web, ofrece imágenes de mapas desplazables, así como fotografías por satélite del mundo e incluso la ruta entre diferentes ubicaciones o imágenes a pie de calle entre otras.
 
@@ -125,6 +125,6 @@ Observamos que la applicación funciona correctamente conforme a lo planteado.
 
 **4 . BIBLIOGRAFÍA**
 
-- https://appinventor.mit.edu/
-- https://www.google.com.ec/maps
-- https://codeweek.eu/docs/spain/guia-iniciacion-app-inventor.pdf
+- https://blog.orange.es/innovacion/que-es-iot-aplicaciones/#:~:text=Una%20red%20IoT%20es%20una,central%20enlaza%20varios%20objetos%20conectados.&text=El%20objetivo%20de%20una%20red,y%20aplicaciones%20en%20la%20nube.
+- https://www.ambit-bst.com/blog/todo-lo-que-debes-saber-de-cisco-packet-tracer
+- https://www.youtube.com/watch?v=R2fUweVhBkY
