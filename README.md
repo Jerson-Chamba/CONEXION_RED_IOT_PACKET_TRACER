@@ -16,7 +16,7 @@ Objetivos Generales
 
 Objetivos Especificos
 
-- Elaborar una aplicación con la plataforma App Inventor que me permita acceder a mi ubicación actual con el sitio web google maps. 
+- Utilizar el programa Cisco Packet Tracer para conectar diversas cosas.
   
 - Establecer una conexión mediante el servicio web de google maps que muestre la longitud, latitud y el lugar donde me encuentro. 
 
@@ -24,9 +24,10 @@ Objetivos Especificos
 
 **¿Qué es una red IoT?**
 
-App Inventor es un entorno de desarrollo de software creado por Google para la elaboración de aplicaciones destinadas al sistema operativo de Android. El lenguaje es gratuito y se puede acceder fácilmente de la web. 
+Una red IoT es una red en la que un nodo central enlaza varios objetos conectados. El objetivo de una red IoT es conectar la realidad y sus objetos físicos con internet y aplicaciones en la nube. 
+Un ejemplo seria cuando en las viviendas forman su propia red IoT primitiva en la que un router enlaza varios ordenadores, smartphones, tabletas, la televisión y quizá algún otro electrodoméstico o máquina. 
 
-![Mit_app_inventor](https://user-images.githubusercontent.com/84453441/129104298-5304effa-fe17-4893-a730-1b6a268850eb.png)
+![Internet_of_Things_Connectivity_image_main-1024x602-1](https://user-images.githubusercontent.com/84453441/133550992-7f916b45-f5e4-4ff5-8893-a67c67b94ee4.jpg)
 
 **Ventajas**
 
