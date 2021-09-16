@@ -12,7 +12,7 @@ PROFESOR: ING. DARWIN ALULEMA
 
 Objetivos Generales
 
-- Realizar un ejemplo para conexión de una APP Android desarrollada en APP INVENTOR con un servicio web.
+- Realizar un ejemplo para simular una red IoT con Packet Tracer.
 
 Objetivos Especificos
 
@@ -114,7 +114,7 @@ Finalmente ejecutamos la aplicación, primero activamos la ubicación del dispos
 
 Observamos que la applicación funciona correctamente conforme a lo planteado.
 
-**3 . CONCLUSIONES**
+**5 . CONCLUSIONES**
 
 - App Inventor tiene una interfaz bien estructurada y fácil de usar, induciendo a usuarios nuevos crear sus propios proyectos. 
 
@@ -123,7 +123,7 @@ Observamos que la applicación funciona correctamente conforme a lo planteado.
 - La aplicación funcionó correctamente conforme a lo planteado, pero sería una gran alternativa poder mejorar la interfaz de App Inventor a una interfaz más profesional.
 
 
-**4 . BIBLIOGRAFÍA**
+**6 . BIBLIOGRAFÍA**
 
 - https://blog.orange.es/innovacion/que-es-iot-aplicaciones/#:~:text=Una%20red%20IoT%20es%20una,central%20enlaza%20varios%20objetos%20conectados.&text=El%20objetivo%20de%20una%20red,y%20aplicaciones%20en%20la%20nube.
 - https://www.ambit-bst.com/blog/todo-lo-que-debes-saber-de-cisco-packet-tracer
