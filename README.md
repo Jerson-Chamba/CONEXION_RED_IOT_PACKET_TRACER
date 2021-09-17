@@ -126,14 +126,17 @@ Observamos que la applicación funciona correctamente conforme a lo planteado.
 
 **4 . CONCLUSIONES**
 
-- App Inventor tiene una interfaz bien estructurada y fácil de usar, induciendo a usuarios nuevos crear sus propios proyectos. 
+-	Una red IoT nos permite conectar elementos físicos cotidianos al Internet: desde objetos domésticos comunes que pueden ser de gran utilidad en el diario vivir.
 
-- Es recomendable continuar con este tipo de trabajos ya que en un futuro sería muy utilizado por jovenes emprendedores de la programación.
+-	Packet Tracer dispone de una interfaz intuitiva que facilita su utilización a la hora de añadir los distintos elementos que componen la red, pudiendo conectarse unos con otros y realizar las configuraciones necesarias de red en apenas unos clics.
 
-- La aplicación funcionó correctamente conforme a lo planteado, pero sería una gran alternativa poder mejorar la interfaz de App Inventor a una interfaz más profesional.
+- El programa Packet Tracer consta de una interfaz muy bien diseñada y a su vez sencilla de utilizar, siendo un punto muy favorable a la hora de usar sus herramientas y cada uno de sus componentes.
+
+- Habiendo obtenido un resultado muy favorable, se logro comprender la gran importancia de una red IoT ya que gracias a esta actualmente contamos con muchas herramientas que son de gran ayuda como por ejemplo en el campo de la salud contamos con el IoT que permite monitorizar a los pacientes y tener un control de ellos en tiempo real, entre otras.
 
 **5 . BIBLIOGRAFÍA**
 
 - https://blog.orange.es/innovacion/que-es-iot-aplicaciones/#:~:text=Una%20red%20IoT%20es%20una,central%20enlaza%20varios%20objetos%20conectados.&text=El%20objetivo%20de%20una%20red,y%20aplicaciones%20en%20la%20nube.
 - https://www.ambit-bst.com/blog/todo-lo-que-debes-saber-de-cisco-packet-tracer
 - https://www.youtube.com/watch?v=R2fUweVhBkY
+- https://www.redhat.com/es/topics/internet-of-things/what-is-iot
