@@ -12,13 +12,13 @@ PROFESOR: ING. DARWIN ALULEMA
 
 Objetivos Generales
 
-- Realizar un ejemplo para simular una red IoT con Packet Tracer.
+- Realizar un ejemplo para simular una conexión de una red IoT con el programa Packet Tracer.
 
 Objetivos Especificos
 
-- Utilizar el programa Cisco Packet Tracer para conectar diversas cosas.
+- Analizar el funcionamiento de un servidor y access point para las redes IoT o internet de las cosas. 
   
-- Establecer una conexión mediante el servicio web de google maps que muestre la longitud, latitud y el lugar donde me encuentro. 
+- Demostrar la importancia de las aplicaciones de una red IoT en el diario vivir. 
 
 **2 . MARCO TEÓRICO**
 
