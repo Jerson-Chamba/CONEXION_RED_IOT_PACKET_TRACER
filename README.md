@@ -126,22 +126,30 @@ Paso 10. Concluida la configuración del servidor procedemos a conectar el acces
 
 Paso 11. Una vez concluido lo anterior ahora empezamos a añadir las cosas, ubicandolas en una posición adecuada con respecto al plano de la casa. Para ello vamos al apartado de Dispositivos y luego a home en donde encontraremos una diversidad de cosas que se podran utilizar con mucha facilidad. 
 
+Para este ejemplo utilizaremos lo siguiente:
 
+- Puerta
+- Lámpara
+- Ventana
+- Ventílador
+- Cámara
+- Parlante
 
+Los cuales se podran configurar con mucha facilidad, primero ingresamos a la configuración de cada uno de ellos luego a wireless donde nos podremos conectar a la red principal denominada "TEL" con su respectiva contraseña,y sí todo esta correctamente lograremos visualizar cómo los cosas se enlazan al access point.
 
-Paso 8. Ya concluido el diseño y la programación de bloques de la aplicación procedemos a descargar, instalar y ejecutar el emulador de App Inventor (aiStarter) el cual nos ayuda a simular todo lo realizado en un dispositivo móvil android como se muestra a continuación:
+![image](https://user-images.githubusercontent.com/84453441/133798807-9fdddc41-e25f-45bc-8428-5e814bd2e9b8.png)
 
-Simulación de la pantalla #1:
+Paso 12. Ahora para lograr tener un control del monitoreo de las cosas, ingresamos una vez mas al servidor en la opción "Desktop" y luego a ioT Monitor donde nos pedira la IP configurada inicialmente y adicional a esto la creación de un usuario y contraseña para el ingreso del mismo.
 
-![11](https://user-images.githubusercontent.com/84453441/129118551-955adfc4-6b42-4d03-908e-693ed1a54392.png)
+![image](https://user-images.githubusercontent.com/84453441/133803540-a5f58216-bcc4-4732-bb72-380798276066.png)
 
-Simulación de la Pantalla #2:
+Paso 13. Ya configurado el IoT monitor procedemos a ingresar a cada una de las cosas en la opción IoT Server el cuál nos facilitará la manipulación de las mismas, tan sólo dando click en la opción remote server aparecerá un recuadro que nos pedira la IP principal y el usuario y contraseña configuradas en el IoT monitor para su debida utilización, tal y como se muestra a continuación:
 
-![3](https://user-images.githubusercontent.com/84453441/129118658-5e87d497-bf28-4730-a0d2-073b64ff9fa6.png)
+![image](https://user-images.githubusercontent.com/84453441/133805882-3f82124d-25b5-46f6-9890-cf49e834100b.png)
 
-Finalmente ejecutamos la aplicación, primero activamos la ubicación del dispositivo la misma que hará cargar los datos respectivos de latitud y longitud de la ubicación del usuario, y luego damos click en ver mapa para desplegar el mismo hacia el lugar en donde se encuentra ubicado el usuario.
+Paso 14. Para la finalización del proyecto demostraremos como se manipulan las cosas ingresando a la opción IoT monitor en el cual aparecerán enlistadas las cosas que se configuraron anteriormente, damos click en una de ellas (lámpara) y podremos visualizar un botón de encendido y apagado el cuál el usuario podra minupular como desee.
 
-![4](https://user-images.githubusercontent.com/84453441/129118862-d0da6c93-ebc1-4e49-a60c-25f4f47afde7.png)
+![image](https://user-images.githubusercontent.com/84453441/133806732-0730b464-0c6f-4f7f-bf96-d330723961aa.png)
 
 Como observamos la conexión de la red IoT funciona correctamente conforme a lo planteado.
 
