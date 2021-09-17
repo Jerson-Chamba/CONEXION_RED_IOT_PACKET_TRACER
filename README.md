@@ -98,9 +98,17 @@ Paso 6. Comenzamos a añadir los componentes y asi realizar las conexiones para 
 
 ![image](https://user-images.githubusercontent.com/84453441/133741361-ee08ccc9-2966-4c54-bb4e-8ec10f2c6422.png)
 
-Paso 7. Se procede a la debida programación de bloques y se lo realizó de la siguiente manera:
+Paso 7. Ya instalado el Access Point también nos es de gran ayuda un server o servidor, el cuál es un equipo diseñado para procesar solicitudes y entregar datos a otros ordenadores a los que podríamos llamar clientes, lo encontraremos en el apartado de dispositivos y consecuentemente empezaremos a configurarlo.
 
-![8](https://user-images.githubusercontent.com/84453441/129118284-2a05578c-347c-49a4-a211-74667a9c77a5.png)
+-	Server: Para configurar el servidor primero nos dirigimos a la opción “Desktop” donde empezaremos configurando nuestra IP de la red, para ello ingresamos a IP configuration y procedemos a ingresar la IP a utilizar que en este caso es:
+
+IPv4: 192.168.2.5
+
+Y nuestra Default Gateway o puerta de enlace predeterminada la cual es:
+
+Default Gateway: 192.168.2.1  
+
+![image](https://user-images.githubusercontent.com/84453441/133744908-4dd1b53d-f2ab-4105-be7f-16ca91e2a439.png)
 
 Paso 8. Ya concluido el diseño y la programación de bloques de la aplicación procedemos a descargar, instalar y ejecutar el emulador de App Inventor (aiStarter) el cual nos ayuda a simular todo lo realizado en un dispositivo móvil android como se muestra a continuación:
 
