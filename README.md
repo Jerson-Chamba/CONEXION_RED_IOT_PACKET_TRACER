@@ -29,23 +29,15 @@ Un ejemplo seria cuando en las viviendas forman su propia red IoT primitiva en l
 
 ![Internet_of_Things_Connectivity_image_main-1024x602-1](https://user-images.githubusercontent.com/84453441/133550992-7f916b45-f5e4-4ff5-8893-a67c67b94ee4.jpg)
 
-**Ventajas**
+**Aplicaciones**
 
-Como ventajas a la hora de programar con App Inventor, encontramos las siguientes:
+Una de las aplicaciones más extendidas del IoT es el Industrial Internet of Things (IIoT) o internet de las cosas industrial (IdCI). 
+Se usa mucho en todo tipo de industrias tales como:
 
-- Se pueden crear aplicaciones por medio de bloques de manera intuitiva y gráfica, sin necesidad de saber código de programación.
+- Logística: Son muy útiles a nivel de almacén, tanto las empresas de distribución como los grandes aeropuertos e incluso tiendas de cierta envergadura monitorizan los objetos y robots dentro de sus instalaciones con objeto de optimizar rutas, abaratar costes o añadir seguridad.
 
-- Se puede acceder en cualquier momento y cualquier lugar siempre que estemos conectados a internet.
-
-- Su interfaz de uso es dinamica y facil de usar.
-
-**Desventajas**
-
-- No genera código Java para desarrollos más profundos.
-
-- Solo se puede desarrollar para Android.
-
-- Para usuarios de alto nivel resulta ser muy sencilla y no posee los recusos para realizar proyectos mas grandes. 
+- Fabricación: Los robots conectados a internet que vemos en una línea de montaje de coches son IIoT. También lo son las impresoras en serie de una editorial o los elementos de corte de una serrería, si están conectados a la red. 
+- Construcción: Cada vez es más frecuente tener sensorizada y conectada la maquinaria de obra. Saber dónde está una retroexcavadora es importante, pero analizar en tiempo real su combustible, estado de conservación o tener cada componente digitalizado aporta mucho valor. 
 
 **Packet Tracer** 
 
