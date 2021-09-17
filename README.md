@@ -42,6 +42,8 @@ Se usa mucho en todo tipo de industrias tales como:
 
 - Agricultura: La agricultura es un sector poco digitalizado, pero ya se están añadiendo sensores de humedad, robots de riego o siembra e incluso recolectores que analizan el color de los cultivos para recogerlos en su momento óptimo o drones que patrullan terrenos buscando plagas.
 
+![Arquitectura-para-Internet-de-las-Cosas-En-la-cima-de-la-arquitectura-esta-la-Capa-de](https://user-images.githubusercontent.com/84453441/133729644-b100ef9b-2d51-4374-998b-fc83e3b8dd21.png)
+
 **Seguridad de una red IoT**
 
 Estas son algunas de las herramientas básicas para mejorar la seguridad del IoT:
