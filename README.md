@@ -37,19 +37,34 @@ Se usa mucho en todo tipo de industrias tales como:
 - Logística: Son muy útiles a nivel de almacén, tanto las empresas de distribución como los grandes aeropuertos e incluso tiendas de cierta envergadura monitorizan los objetos y robots dentro de sus instalaciones con objeto de optimizar rutas, abaratar costes o añadir seguridad.
 
 - Fabricación: Los robots conectados a internet que vemos en una línea de montaje de coches son IIoT. También lo son las impresoras en serie de una editorial o los elementos de corte de una serrería, si están conectados a la red. 
+
 - Construcción: Cada vez es más frecuente tener sensorizada y conectada la maquinaria de obra. Saber dónde está una retroexcavadora es importante, pero analizar en tiempo real su combustible, estado de conservación o tener cada componente digitalizado aporta mucho valor. 
+
+- Agricultura: La agricultura es un sector poco digitalizado, pero ya se están añadiendo sensores de humedad, robots de riego o siembra e incluso recolectores que analizan el color de los cultivos para recogerlos en su momento óptimo o drones que patrullan terrenos buscando plagas.
+
+**Seguridad de una red IoT**
+
+Estas son algunas de las herramientas básicas para mejorar la seguridad del IoT:
+
+- Adquirir hardware y software de confianza. 
+
+- Comprar solo dispositivos actualizados y actualizables. 
+
+- Dispositivos que permitan cambiar la contraseña. 
+
+- Sistemas antiDDoS.
 
 **Packet Tracer** 
 
-Es un servidor de aplicaciones de mapas en la web, ofrece imágenes de mapas desplazables, así como fotografías por satélite del mundo e incluso la ruta entre diferentes ubicaciones o imágenes a pie de calle entre otras.
+Cisco Packet Tracer es una aplicación a través de la cual se puede realizar una gran variedad de funciones relacionadas con las redes, como diseñar y construir una red desde cero, trabajar sobre proyectos preconstruidos, probar nuevos diseños y topologías de red, probar cambios en la red antes de aplicarlos a la misma, examinar el flujo de datos a través de una red, hacer simulaciones de Internet of things (internet de las cosas) o preparar exámenes de certificación en redes.
 
-Para poder utilizarlo es muy facil, no es necesario estar registrado. Basta con introducir una búsqueda en el cuadro correspondiente, que puede ser una dirección completa, el nombre de un negocio, una estación de metro, unas coordenadas, etc. El punto se muestra señalado con un icono en un mapa convencional que se puede alejar o acercar a conveniencia.
+Esta herramienta es útil para diseñar redes y realizar simulaciones sobre su uso. Con esta herramienta se puede testear el funcionamiento de redes, ciberseguridad y el internet de las cosas (IoT), entre otras.
 
 ![unnamed](https://user-images.githubusercontent.com/84453441/133551199-9ddcaf8e-1146-47cd-806c-e4473cd0862e.png)
 
 **3 . EXPLICACIÓN Y DESARROLLO DEL PROYECTO**
 
-Para dar comienzo a la elaboración de la aplicación android es necesario tener conocimiento de cómo funciona la plataforma online App Inventor, y el sitio web google maps como se muestra a continuación:
+Una ves realizado un análisis teórico de lo que es una red IoT y además de como funciona el programa Packet Tracer se procede a mencionar los pasos a seguir para la ejecución del mismo, el cual costa de la siguiente manera:
 
 **PASOS A SEGUIR**
 
@@ -114,7 +129,6 @@ Observamos que la applicación funciona correctamente conforme a lo planteado.
 - Es recomendable continuar con este tipo de trabajos ya que en un futuro sería muy utilizado por jovenes emprendedores de la programación.
 
 - La aplicación funcionó correctamente conforme a lo planteado, pero sería una gran alternativa poder mejorar la interfaz de App Inventor a una interfaz más profesional.
-
 
 **5 . BIBLIOGRAFÍA**
 
