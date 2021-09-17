@@ -70,11 +70,13 @@ Una ves realizado un análisis teórico de lo que es una red IoT y además de co
 
 **PASOS A SEGUIR**
 
-Paso 1. Abrir tu navegador de preferencia e ingresar a la pagina principal de App Inventor, donde se podra encontrar diversa información del funcionamiento de la misma.
+Paso 1. Para poder realizar el ejemplo de simulación de una red Iot con el programa Packet Tracer primero hay que ingresar en la página web de Cisco Networking Academy para luego inscribirse en el curso "Introduction to Packet Tracer" y completar la inscripción, luego en la página principal hay que ingresar al apartado de resursos donde se podrá descargar el programa a utilizar “Packet Tracer” y elegir la versión acorde al sistema operativo que el usuario utilice.
 
-Paso 2. Dar click en el botón "Crea aplicaciones" donde se podrá dar inicio a la creación de diversos proyectos de acuerdo al usuario.
+Paso 2. Con una instalación muy sencilla y rápida, se puede realizar la primera sesión de Packet Tracer, en la cual hay que utilizar los datos de registro, así como aceptar todos los permisos para el Firewall.
 
-Paso 3. Procedemos a crear un nuevo proyecto con su respectivo nombre, consecuentemente se abre la interfaz de App Inventor donde se podrá encontrar un apartado de diseño y otro de bloques el mismo que sirve para programar las funciones de la aplicación.
+Paso 3. Una vez iniciado el programa procedemos a crear un nuevo proyecto y a su vez guardarlo en la carpeta de descargas con su respectivo nombre, consecuentemente observamos como desde la pantalla principal se puede comenzar a añadir los distintos dispositivos que conforman una red, además de contar con una opción donde se puede simular todo lo que se encuentre conectado a la misma.  
+
+![image](https://user-images.githubusercontent.com/84453441/133735032-0296e63c-75b9-4b4c-9b37-6d347d15dee8.png)
 
 Paso 4. Nos colocamos en el apartado de diseño donde se encuentran las herramientras que el usuario puede seleccionar según el diseño de su aplicación, en este caso utilizamos para la pantalla #1 lo siguiente:
 
