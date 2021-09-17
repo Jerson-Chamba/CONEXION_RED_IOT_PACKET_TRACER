@@ -145,7 +145,7 @@ Paso 12. Ahora para lograr tener un control del monitoreo de las cosas, ingresam
 
 Paso 13. Ya configurado el IoT monitor procedemos a ingresar a cada una de las cosas en la opción IoT Server el cuál nos facilitará la manipulación de las mismas, tan sólo dando click en la opción remote server aparecerá un recuadro que nos pedira la IP principal y el usuario y contraseña configuradas en el IoT monitor para su debida utilización, tal y como se muestra a continuación:
 
-![image](https://user-images.githubusercontent.com/84453441/133805882-3f82124d-25b5-46f6-9890-cf49e834100b.png)
+![image](https://user-images.githubusercontent.com/84453441/133807638-37e9dd12-1fe1-4757-96cb-c06dd009e025.png)
 
 Paso 14. Para la finalización del proyecto demostraremos como se manipulan las cosas ingresando a la opción IoT monitor en el cual aparecerán enlistadas las cosas que se configuraron anteriormente, damos click en una de ellas (lámpara) y podremos visualizar un botón de encendido y apagado el cuál el usuario podra minupular como desee.
 
