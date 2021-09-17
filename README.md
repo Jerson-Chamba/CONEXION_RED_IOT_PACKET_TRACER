@@ -76,7 +76,7 @@ Paso 2. Con una instalación muy sencilla y rápida, se puede realizar la primer
 
 Paso 3. Una vez iniciado el programa procedemos a crear un nuevo proyecto y a su vez guardarlo en la carpeta de descargas con su respectivo nombre, consecuentemente observamos como desde la pantalla principal se puede comenzar a añadir los distintos dispositivos que conforman una red, además de contar con una opción donde se puede simular todo lo que se encuentre conectado a la misma.  
 
-![image](https://user-images.githubusercontent.com/84453441/133735212-b9505674-d0a1-47b7-84c7-6cfe5a25306b.png)
+![image](https://user-images.githubusercontent.com/84453441/133735339-ab03018e-5538-41e8-b619-dfbeb485925c.png)
 
 Paso 4. Nos colocamos en el apartado de diseño donde se encuentran las herramientras que el usuario puede seleccionar según el diseño de su aplicación, en este caso utilizamos para la pantalla #1 lo siguiente:
 
