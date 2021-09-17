@@ -78,33 +78,25 @@ Paso 3. Una vez iniciado el programa procedemos a crear un nuevo proyecto y a su
 
 ![image](https://user-images.githubusercontent.com/84453441/133735339-ab03018e-5538-41e8-b619-dfbeb485925c.png)
 
-Paso 4. Nos colocamos en el apartado de diseño donde se encuentran las herramientras que el usuario puede seleccionar según el diseño de su aplicación, en este caso utilizamos para la pantalla #1 lo siguiente:
+Paso 4. Para añadir dispositivos de red dentro del menú observamos que se encuentran todos los dispositivos y conexiones disponibles en la aplicación. Navegando entre ellos podemos ver:
 
-- Imagen (Permite insertar una imagen cualquiera a su app)
+- Network Devices: donde se encuentran routers, switches, hubs, dispositivos Wi-Fi y dispositivos de seguridad y emulación WAN.
 
-- Reloj (Sirve como temporizador para el cambio a la siguiente pantalla)
+- Dispositivos: en este apartado se pueden añadir ordenadores, impresoras, servidores, teléfonos, etc. Además hay gran cantidad de dispositivos orientados al internet de las cosas cómo, altavoces inteligentes, diversos tipos de sensores, electrodomésticos inteligentes, etc.
 
-- Sonido (Permite incluir un sonido cuando inicia la app)
+- Componentes: Aquí podemos encontrar Placas MCU y placas SBS (microordenadores) y dispositivos similares.
 
-![5](https://user-images.githubusercontent.com/84453441/129116658-42bfc798-1f0c-4cec-b21e-0a4b52614eb9.png)
+- Conexiones: se encuentra todo tipo de conexiones entre dispositivos, como cable de cobre, fibra, consola, teléfono, USB, etc.
 
-Paso 5. Ahora pasamos a la parte de la programación de bloques donde todo va conforme a lo requerido que realice la app.
+Paso 5. Ya realizado un análisis de cómo funciona el programa, procedemos a descargar una imagen de un plano de una casa el cual nos será de mucha utilidad para simular las cosas que se utilizará tales como una lámpara, puerta, ventana, etc. Para insertar la imagen en el programa vamos a la parte de “set background image” donde se nos permitirá subir la imagen desde el destino donde se encuentre guardada.  
 
-![6](https://user-images.githubusercontent.com/84453441/129117186-ecc15dfc-5a80-4a51-bbb1-d166674d7d54.png)
+![image](https://user-images.githubusercontent.com/84453441/133739968-f803ee16-a09e-4756-964b-6a8899da3be4.png)
 
-Paso 6. Continuando con el procedimiento creamos una pantalla #2 la cual nos servirá para mostrar la longitud, latitud y el mapa con su respectiva ubicación, en este apartado utilizamos lo siguiente:
+Paso 6. Comenzamos a añadir los componentes y asi realizar las conexiones para simular la red IoT, primero vamos al apartado de Netwok Devices y luego a Wireless Devices donde usaremos un Access Point-PT que nos permitirá que los dispositivos con capacidad inalámbrica se conecten a una red, cabe mencionar que cada uno de los dispositivos agregados se los debe configurar para su debido funcionamiento.
 
-- Etiqueta (Sirve para nombrar un aspecto que se vaya a utilizar)
+-	Access Point-PT: Ingresamos al apartado de “config” y luego a Port 1, donde podremos nombrar nuestra red en la opción SSID y además ingresar una contraseña de seguridad.
 
-- Botón (Se utiliza para dar una orden es decir si se desea realizar una operación o en este caso desplegar el mapa)
-
-- Mapa (Es un componente que ayuda a dar la ubicación donde se encuentra el usuario)
-
-- Marcador (Es un icono de posición que refleja el lugar exacto de la ubicación del usuario)
-
-- Sensor de ubicación (Es un componente que ofrece información de la ubicación del usuario tales como longitud y latitud)
-
-![7](https://user-images.githubusercontent.com/84453441/129117559-0d479262-709a-44c5-afd5-fc857ef62f1b.png)
+![image](https://user-images.githubusercontent.com/84453441/133741361-ee08ccc9-2966-4c54-bb4e-8ec10f2c6422.png)
 
 Paso 7. Se procede a la debida programación de bloques y se lo realizó de la siguiente manera:
 
