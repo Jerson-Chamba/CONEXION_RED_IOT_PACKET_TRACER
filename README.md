@@ -110,9 +110,21 @@ Default Gateway: 192.168.2.1
 
 ![image](https://user-images.githubusercontent.com/84453441/133744908-4dd1b53d-f2ab-4105-be7f-16ca91e2a439.png)
 
+Paso 8. Continuando con la configuración del Servidor procedemos a la opción “services” y luego a DHCP el cual asignará dinámicamente una dirección IP y otros parámetros de configuración de red a cada dispositivo en una red para que puedan comunicarse con otras redes IP.
 
+Primero damos click en la opción “on” para que el servicio se encienda, luego configuramos nuestra puerta de enlace predeterminada ya anteriormente mencionada y para finalizar decimos que nuestra IP Address comience en 10 y tenga un máximo de usuarios de 20 dando así acceso a un número de 10 usuarios, y luego damos click en save para guardar los cambios. 
 
+![image](https://user-images.githubusercontent.com/84453441/133749558-7f61a094-4505-4960-be8d-7855f7729187.png)
 
+Paso 9. Ahora ingresamos a la opción IoT para encender el servicio dando click en "on" ya que este va a registrar los dispositivos que cumplan con la tecnología del internet de las cosas.
+
+![image](https://user-images.githubusercontent.com/84453441/133749991-39d75629-b265-4f18-ae57-727270bb2b2f.png)
+
+Paso 10. Concluida la configuración del servidor procedemos a conectar el access point con el servidor por medio de un cable de cobre que se encuentra en el apartado de conexiones quedando de la siguiente manera:
+
+![image](https://user-images.githubusercontent.com/84453441/133751788-56192619-c44b-4635-a94c-ac397e574b4b.png)
+
+Paso 11. Una vez concluido lo anterior ahora empezamos a añadir las cosas, ubicandolas en una posición adecuada con respecto al plano de la casa. Para ello vamos al apartado de Dispositivos y luego a home en donde encontraremos una diversidad de cosas que se podran utilizar con mucha facilidad. 
 
 
 
@@ -131,7 +143,7 @@ Finalmente ejecutamos la aplicación, primero activamos la ubicación del dispos
 
 ![4](https://user-images.githubusercontent.com/84453441/129118862-d0da6c93-ebc1-4e49-a60c-25f4f47afde7.png)
 
-Observamos que la applicación funciona correctamente conforme a lo planteado.
+Como observamos la conexión de la red IoT funciona correctamente conforme a lo planteado.
 
 **4 . CONCLUSIONES**
 
