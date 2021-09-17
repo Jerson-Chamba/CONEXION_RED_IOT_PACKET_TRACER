@@ -151,6 +151,10 @@ Paso 14. Para la finalización del proyecto demostraremos como se manipulan las 
 
 ![image](https://user-images.githubusercontent.com/84453441/133806732-0730b464-0c6f-4f7f-bf96-d330723961aa.png)
 
+Paso 15. Para realizar la simulación de la red solo hay que pasar el programa del modo Realtime al modo Simulation. En este modo podemos elegir enviar paquetes de información de un dispositivo a otro, y luego activar el modo simulación para ver cómo se realiza esa transmisión de datos, tal y como se muestra a continuación:
+
+![image](https://user-images.githubusercontent.com/84453441/133820703-2aa02709-37b4-4554-8759-fbfd4ee4fd19.png)
+
 Como observamos la conexión de la red IoT funciona correctamente conforme a lo planteado.
 
 **4 . CONCLUSIONES**
