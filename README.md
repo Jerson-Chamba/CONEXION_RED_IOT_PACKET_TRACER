@@ -157,7 +157,15 @@ Paso 15. Para realizar la simulación de la red solo hay que pasar el programa d
 
 Como observamos la conexión de la red IoT funciona correctamente conforme a lo planteado.
 
-**4 . CONCLUSIONES**
+**4 . Instalación y Video**
+
+Link del video: https://youtu.be/Z1AgtG1ewjg
+
+Link de instalación de Packet Tracer: https://www.netacad.com/es/courses/packet-tracer
+
+Link de instalación alterno: https://drive.google.com/drive/u/0/folders/1awvoFB_uUfC42RMV2D0AUJ7SJaFFTIDY
+
+**5 . CONCLUSIONES**
 
 -	Una red IoT nos permite conectar elementos físicos cotidianos al Internet: desde objetos domésticos comunes que pueden ser de gran utilidad en el diario vivir.
 
@@ -167,7 +175,7 @@ Como observamos la conexión de la red IoT funciona correctamente conforme a lo 
 
 - Habiendo obtenido un resultado muy favorable, se logro comprender la gran importancia de una red IoT ya que gracias a esta actualmente contamos con muchas herramientas que son de gran ayuda como por ejemplo en el campo de la salud contamos con el IoT que permite monitorizar a los pacientes y tener un control de ellos en tiempo real, entre otras.
 
-**5 . BIBLIOGRAFÍA**
+**6 . BIBLIOGRAFÍA**
 
 - https://blog.orange.es/innovacion/que-es-iot-aplicaciones/#:~:text=Una%20red%20IoT%20es%20una,central%20enlaza%20varios%20objetos%20conectados.&text=El%20objetivo%20de%20una%20red,y%20aplicaciones%20en%20la%20nube.
 - https://www.ambit-bst.com/blog/todo-lo-que-debes-saber-de-cisco-packet-tracer
